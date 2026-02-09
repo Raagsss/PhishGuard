@@ -9,8 +9,6 @@
 
 **Instantly detect phishing links and malicious URLs with advanced security analysis**
 
-[Features](#-features) • [Demo](#-demo) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [How It Works](#-how-it-works)
-
 </div>
 
 ---
