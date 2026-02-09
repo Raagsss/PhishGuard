@@ -260,9 +260,7 @@ MIT License - feel free to use this project for learning, portfolios, or commerc
 Built with ❤️ for cybersecurity education
 
 **Connect:**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Portfolio: your-website.com
+- GitHub: [@Raagsss](https://github.com/Raagsss)
 
 ---
 
