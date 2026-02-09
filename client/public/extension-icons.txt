@@ -1,0 +1,1 @@
+Uses existing shield.svg as icon for simplicity.
